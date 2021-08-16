@@ -1,1 +1,1 @@
-# Prediction_using_SupervisedML
+Prediction_using_Supervised_ML
